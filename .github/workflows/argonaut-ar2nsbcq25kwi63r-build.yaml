@@ -1,4 +1,4 @@
-name: "prashantcd22 - Argonaut"
+name: "temp - Argonaut"
 
 run-name: "${{inputs.arg_task_title}}"
 
@@ -29,7 +29,7 @@ on:
 
 
 env:
-  ARGONAUT_BACKEND: https://b75d-2401-4900-1c42-571c-ac21-f80c-accb-f817.ngrok-free.app 
+  ARGONAUT_BACKEND: https://midgard-1.pp.argonaut.live 
   ARGONAUT_AUTH_SERVER: https://argonaut1-pp.frontegg.com
 
 
